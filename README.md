@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @SarvarbekWebDev
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning Flutter so I can become a cross platform developer
+- 📫 How to reach me 
+-    email: sarvarbekilyosov.uz@gmail.com
+-    Telegram: @SarvarbekIlyosov
+- 
+- ⚡ Fun fact:
+-     Hello there I'm a web developer with HTML, CSS, JavaScript, React
+-     Backend services: Firebase
